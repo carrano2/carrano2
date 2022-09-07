@@ -8,7 +8,8 @@
 * Excel
 * Tableau | Power BI | Cognos Analytics
 
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 - 🔭 I’m currently working on showcasing my SQL skills and illustrating them through Tableau visualizations.
 
