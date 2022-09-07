@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My name is Mike
+# My name is Mike
 # Welcome to my profile!
 
 # When I'm not coding or cleaning a dataset, I'm passionate about lifting weights, reading, and spending outside.
