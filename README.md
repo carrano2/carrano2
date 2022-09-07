@@ -10,4 +10,4 @@
 
 - 🔭 I’m currently working on showcasing my SQL skills and illustrating them through Tableau visualizations.
 
-- ⚡ Fun fact: I used to play in a jazz trio in highschool and college as an upright bassist.  One of the most memorable gigs I ever played was for the Royal Jesters Society, an offshoot of the Freemasons! Truly an experience like no other.
+- ⚡ Fun fact: I used to play in a jazz trio in highschool and college as an upright bassist.
