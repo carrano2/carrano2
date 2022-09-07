@@ -8,6 +8,9 @@
 * Excel
 * Tableau | Power BI | Cognos Analytics
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 - 🔭 I’m currently working on showcasing my SQL skills and illustrating them through Tableau visualizations.
 
 - ⚡ Fun fact: I used to play in a jazz trio in highschool and college as an upright bassist.
