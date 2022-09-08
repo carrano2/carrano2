@@ -11,6 +11,6 @@
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
-- 🔭 I’m currently working on showcasing my SQL skills and illustrating them through Tableau visualizations.
+- 🔭 I’m currently working on webscraping using Python and illustrating my data findings through Tableau visualizations.
 
 - ⚡ Fun fact: I used to play in a jazz trio in highschool and college as an upright bassist.
