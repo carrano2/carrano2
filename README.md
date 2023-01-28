@@ -6,11 +6,10 @@
 * Python
 * SQL
 * Excel
-* Tableau | Power BI | Cognos Analytics
+* Tableau 
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
-- 🔭 I’m currently working on SQL and illustrating my data findings through Tableau visualizations.
 
 - ⚡ Fun fact: I used to play in a jazz trio in highschool and college as an upright bassist.
